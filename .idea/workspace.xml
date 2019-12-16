@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1a3c24f-1abf-4954-b531-26dfa21a2d8b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UHfgds3QWmePcRZ6Ikbx3IJHMJ" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for AppTest.RunAppLoginTest.test_FirstDemo">
+    <configuration name="BaseApp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AppiumMobileAutomationFrameworkUsingPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Main/com/qa/AppBaseFile" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main/com/qa/AppBaseFile/BaseApp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for AppTest.RunAppLoginTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="AppiumMobileAutomationFrameworkUsingPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test/com/qa/AppTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;AppTest.RunAppLoginTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for AppTest.RunAppLoginTest.test_FirstDemo" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="AppiumMobileAutomationFrameworkUsingPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test/com/qa/AppTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;AppTest.RunAppLoginTest.test_FirstDemo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for AppTest.RunAppLoginTest.test_app_demo" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="AppiumMobileAutomationFrameworkUsingPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test/com/qa/AppTest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;AppTest.RunAppLoginTest.test_app_demo&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for BaseApp.AppBaseFile" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="AppiumMobileAutomationFrameworkUsingPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Main/com/qa/AppBaseFile" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;BaseApp.AppBaseFile&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2">
+        <option name="LaunchBrowser.Before.Run" />
+      </method>
+    </configuration>
+    <configuration name="Unittests for BaseFile.SimpleAndroidTests.test_find_elements" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="AppiumMobileAutomationFrameworkUsingPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Main/com/qa/AppBaseFile" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;BaseFile.SimpleAndroidTests.test_find_elements&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.BaseApp" />
+      <item itemvalue="Python tests.Unittests for BaseApp.AppBaseFile" />
+      <item itemvalue="Python tests.Unittests for BaseFile.SimpleAndroidTests.test_find_elements" />
+      <item itemvalue="Python tests.Unittests for AppTest.RunAppLoginTest.test_app_demo" />
+      <item itemvalue="Python tests.Unittests for AppTest.RunAppLoginTest.test_FirstDemo" />
+      <item itemvalue="Python tests.Unittests for AppTest.RunAppLoginTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for AppTest.RunAppLoginTest.test_FirstDemo" />
+        <item itemvalue="Python tests.Unittests for AppTest.RunAppLoginTest" />
+        <item itemvalue="Python tests.Unittests for BaseFile.SimpleAndroidTests.test_find_elements" />
+        <item itemvalue="Python tests.Unittests for AppTest.RunAppLoginTest.test_app_demo" />
+        <item itemvalue="Python.BaseApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1a3c24f-1abf-4954-b531-26dfa21a2d8b" name="Default Changelist" comment="" />
+      <created>1575018554172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575018554172</updated>
+    </task>
+    <servers />
+  </component>
+</project>
